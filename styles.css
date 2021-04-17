@@ -19,12 +19,12 @@ body{
 }
 
 .mole{
-    background-image: url('/assets/img/mole.png');
+    background-image: url('./assets/img/mole.png');
     background-size: cover;
 }
 
 .splat{
-    background-image: url('/assets/img/splat.png');
+    background-image: url('./assets/img/splat.png');
     background-size: cover;
 }
 
@@ -76,7 +76,7 @@ button{
     width: 406px;
     max-width: 406px;
     height: 606px;
-    background-image: url('/assets/img/whackAMole.png');
+    background-image: url('./assets/img/whackAMole.png');
     background-size: auto;
     background-repeat: no-repeat;
 }
